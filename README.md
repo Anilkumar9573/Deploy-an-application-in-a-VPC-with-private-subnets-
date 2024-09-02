@@ -46,8 +46,9 @@ and Target group
 ![Screenshot 2024-09-02 115652](https://github.com/user-attachments/assets/3c9d5645-9857-43d8-81fd-47a5be5c3497)
 
 # Ec2 instances connect pdf as a link :
-https://pdf.ac/30y30l
-
-# result :
+https://drive.google.com/file/d/15Omr_W8kcFVJnPQuc1HkvKZwhjz75aiN/view?usp=drivesdk
+# result link :
+http://project1-432817283.us-east-1.elb.amazonaws.com/
+# Result Images
 ![Screenshot 2024-09-02 123139](https://github.com/user-attachments/assets/e0d374e1-78af-4b00-b9bd-e4a69b6ab1c5)
 ![Screenshot 2024-09-02 123209](https://github.com/user-attachments/assets/cc5c7eec-f05b-4c53-991c-1c402599edd5)
